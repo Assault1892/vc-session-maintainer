@@ -1,0 +1,23 @@
+{
+  "name": "vc-session-maintainer",
+  "version": "1.0.0",
+  "description": "DiscordサーバーのVCセッションをずっと維持します",
+  "homepage": "https://github.com/Assault1892/vc-session-maintainer#readme",
+  "bugs": {
+    "url": "https://github.com/Assault1892/vc-session-maintainer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Assault1892/vc-session-maintainer.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
